@@ -1,0 +1,378 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.databinding:viewbinding:8.2.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\2fafe4247c5e7cd9b15c8a5ef9d0efad\transformed\jetified-viewbinding-8.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\988194d314cbb39bfb7ff34e2b57d879\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\0f628473d1e5738b37ed397c33058347\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\086ba77fe100370c9da14f8b0b9141aa\transformed\jetified-appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\65e01149018195da17711ac85ce28a2c\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b3c654d864df51e3b0f7f6955fa93491\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\180c09a414a11f7662a2a7ff0755ba0a\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [com.google.android.play:review-ktx:2.0.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\231acd8f7a52764d6b73e5b09b7c68b2\transformed\jetified-review-ktx-2.0.1\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\c8f80f2cc6383a33a490a59939db5bcc\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.play:review:2.0.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\0cafe281da5a8a446090a3f495af68ce\transformed\jetified-review-2.0.1\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\dac76aba60727b2bb082d9f8eca5c4bc\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b566078bd6cd52a9b218b2b84432de72\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\8d4aca15d36432bae40c02bd459fb813\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\35d3e25b984cc79d31485685a1f07284\transformed\jetified-activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\dbb2edbdb056eeaa126616d442bf8de0\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\1589543db405061d260f9685492ae502\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b0d760a8b6525c0e4084e95cffc5e422\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\134291bdf3f2c0ccd098fa55c610743a\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\56c63f5949118099bd24d4c3a495c5c8\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\0bffb7daaa0122652f7c0f0bff6fdca0\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\317906e532e1556b5788959725b66921\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\c89cfeaf9f076c852da55861e5ac86eb\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\160c0fe9a0d294ed58783ef588f3471a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\a901ac73a6de165b642c4b1ea23ed526\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\3b54294525687cb0f8fee36cd5274624\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b98af967640ddf287257219dee778892\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\e39d5b6cee495d20e020ab382164ec1e\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\177ee48f94ce4baf7fa37c54f31796cf\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\a3a41ae17021f47c4a246b141b44f42a\transformed\jetified-lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\746c6615215617661eb9b2392661c8ba\transformed\lifecycle-viewmodel-2.8.3\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\275239b0045036b4b150ac5c3c9a801a\transformed\jetified-lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\949eb9b02bceeb88f2b72ea812125427\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\a5e36f50f18bcfd1267381d995533c5f\transformed\lifecycle-livedata-core-2.8.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\1bda5ff857d0ee3525bf1d2a6a9667e0\transformed\jetified-lifecycle-process-2.8.3\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\d0e945abf0177936357eb53dc8427d0d\transformed\jetified-lifecycle-livedata-core-ktx-2.8.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\8f0cfa06bae72fdec422380dbb385ddc\transformed\lifecycle-livedata-2.8.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\2156f907fa468fe288ce5bea7d7f7125\transformed\jetified-lifecycle-livedata-ktx-2.8.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\c922f00f3d774843f0562dbfd0ab3fb1\transformed\jetified-lifecycle-viewmodel-ktx-2.8.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\9a37f8eb372abf72d445525fc486e6ea\transformed\room-runtime-2.6.1\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\3954e5e98086d2fbd33f8c1f765f06c6\transformed\jetified-room-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\e61acd8c22df3bfbd45f2e4bfe76b0c4\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b7bdad78661ed30a9c6a5e6c4c88924b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\0bef36ca5c63b69f537ba6a490339cdf\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\e8fca0093423cbd6b1f9b49534a2a2cf\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\918ada7e61b16d3115ae8b597278f052\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\5a3f2d23e038b943554f71b1289f1bf5\transformed\sqlite-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\50f74abb3594eb315035c7732a2fa2eb\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\dc0f21531616e0033a68c5ebdd889127\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\31cd04cf25c7807e7cbe73d5cec0f4ff\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\3353b37d8952c15feaaecb926ade2d72\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\240463b05e261f4b8008224b07424f92\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\9555bd48c6740af10572e80c705705d4\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\d401488e7771b62df410b733265e3937\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\98e1437d12bdb6eeaeeb3507e9ffe1f7\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.play:core-common:2.0.2] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\397beb8c7e89bf7fccc1c1adc05fa420\transformed\jetified-core-common-2.0.2\AndroidManifest.xml:2:1-21:12
+	package
+		INJECTED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml:8:5-24:19
+INJECTED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\988194d314cbb39bfb7ff34e2b57d879\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\988194d314cbb39bfb7ff34e2b57d879\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\0f628473d1e5738b37ed397c33058347\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\0f628473d1e5738b37ed397c33058347\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\180c09a414a11f7662a2a7ff0755ba0a\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\180c09a414a11f7662a2a7ff0755ba0a\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.play:review-ktx:2.0.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\231acd8f7a52764d6b73e5b09b7c68b2\transformed\jetified-review-ktx-2.0.1\AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.android.play:review-ktx:2.0.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\231acd8f7a52764d6b73e5b09b7c68b2\transformed\jetified-review-ktx-2.0.1\AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.android.play:review:2.0.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\0cafe281da5a8a446090a3f495af68ce\transformed\jetified-review-2.0.1\AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.android.play:review:2.0.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\0cafe281da5a8a446090a3f495af68ce\transformed\jetified-review-2.0.1\AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\dac76aba60727b2bb082d9f8eca5c4bc\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\dac76aba60727b2bb082d9f8eca5c4bc\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b566078bd6cd52a9b218b2b84432de72\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b566078bd6cd52a9b218b2b84432de72\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\e39d5b6cee495d20e020ab382164ec1e\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\e39d5b6cee495d20e020ab382164ec1e\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\1bda5ff857d0ee3525bf1d2a6a9667e0\transformed\jetified-lifecycle-process-2.8.3\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\1bda5ff857d0ee3525bf1d2a6a9667e0\transformed\jetified-lifecycle-process-2.8.3\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\9a37f8eb372abf72d445525fc486e6ea\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\9a37f8eb372abf72d445525fc486e6ea\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b7bdad78661ed30a9c6a5e6c4c88924b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b7bdad78661ed30a9c6a5e6c4c88924b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\dc0f21531616e0033a68c5ebdd889127\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\dc0f21531616e0033a68c5ebdd889127\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\31cd04cf25c7807e7cbe73d5cec0f4ff\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\31cd04cf25c7807e7cbe73d5cec0f4ff\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.play:core-common:2.0.2] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\397beb8c7e89bf7fccc1c1adc05fa420\transformed\jetified-core-common-2.0.2\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.android.play:core-common:2.0.2] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\397beb8c7e89bf7fccc1c1adc05fa420\transformed\jetified-core-common-2.0.2\AndroidManifest.xml:11:5-19:19
+	android:extractNativeLibs
+		INJECTED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\e39d5b6cee495d20e020ab382164ec1e\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml:12:9-54
+	tools:targetApi
+		ADDED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml:15:9-29
+	android:icon
+		ADDED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml:14:9-56
+activity#net.sytes.planealo.deudaconsulta.ui.MainActivity
+ADDED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml:16:9-23:20
+	android:exported
+		ADDED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml:17:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml
+INJECTED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.2.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\2fafe4247c5e7cd9b15c8a5ef9d0efad\transformed\jetified-viewbinding-8.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.2.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\2fafe4247c5e7cd9b15c8a5ef9d0efad\transformed\jetified-viewbinding-8.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\988194d314cbb39bfb7ff34e2b57d879\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\988194d314cbb39bfb7ff34e2b57d879\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\0f628473d1e5738b37ed397c33058347\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\0f628473d1e5738b37ed397c33058347\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\086ba77fe100370c9da14f8b0b9141aa\transformed\jetified-appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\086ba77fe100370c9da14f8b0b9141aa\transformed\jetified-appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\65e01149018195da17711ac85ce28a2c\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\65e01149018195da17711ac85ce28a2c\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b3c654d864df51e3b0f7f6955fa93491\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b3c654d864df51e3b0f7f6955fa93491\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\180c09a414a11f7662a2a7ff0755ba0a\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\180c09a414a11f7662a2a7ff0755ba0a\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.play:review-ktx:2.0.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\231acd8f7a52764d6b73e5b09b7c68b2\transformed\jetified-review-ktx-2.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:review-ktx:2.0.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\231acd8f7a52764d6b73e5b09b7c68b2\transformed\jetified-review-ktx-2.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\c8f80f2cc6383a33a490a59939db5bcc\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\c8f80f2cc6383a33a490a59939db5bcc\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.play:review:2.0.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\0cafe281da5a8a446090a3f495af68ce\transformed\jetified-review-2.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:review:2.0.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\0cafe281da5a8a446090a3f495af68ce\transformed\jetified-review-2.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\dac76aba60727b2bb082d9f8eca5c4bc\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\dac76aba60727b2bb082d9f8eca5c4bc\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b566078bd6cd52a9b218b2b84432de72\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b566078bd6cd52a9b218b2b84432de72\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\8d4aca15d36432bae40c02bd459fb813\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\8d4aca15d36432bae40c02bd459fb813\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\35d3e25b984cc79d31485685a1f07284\transformed\jetified-activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\35d3e25b984cc79d31485685a1f07284\transformed\jetified-activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\dbb2edbdb056eeaa126616d442bf8de0\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\dbb2edbdb056eeaa126616d442bf8de0\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\1589543db405061d260f9685492ae502\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\1589543db405061d260f9685492ae502\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b0d760a8b6525c0e4084e95cffc5e422\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b0d760a8b6525c0e4084e95cffc5e422\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\134291bdf3f2c0ccd098fa55c610743a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\134291bdf3f2c0ccd098fa55c610743a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\56c63f5949118099bd24d4c3a495c5c8\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\56c63f5949118099bd24d4c3a495c5c8\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\0bffb7daaa0122652f7c0f0bff6fdca0\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\0bffb7daaa0122652f7c0f0bff6fdca0\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\317906e532e1556b5788959725b66921\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\317906e532e1556b5788959725b66921\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\c89cfeaf9f076c852da55861e5ac86eb\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\c89cfeaf9f076c852da55861e5ac86eb\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\160c0fe9a0d294ed58783ef588f3471a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\160c0fe9a0d294ed58783ef588f3471a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\a901ac73a6de165b642c4b1ea23ed526\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\a901ac73a6de165b642c4b1ea23ed526\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\3b54294525687cb0f8fee36cd5274624\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\3b54294525687cb0f8fee36cd5274624\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b98af967640ddf287257219dee778892\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b98af967640ddf287257219dee778892\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\e39d5b6cee495d20e020ab382164ec1e\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\e39d5b6cee495d20e020ab382164ec1e\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\177ee48f94ce4baf7fa37c54f31796cf\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\177ee48f94ce4baf7fa37c54f31796cf\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\a3a41ae17021f47c4a246b141b44f42a\transformed\jetified-lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\a3a41ae17021f47c4a246b141b44f42a\transformed\jetified-lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\746c6615215617661eb9b2392661c8ba\transformed\lifecycle-viewmodel-2.8.3\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\746c6615215617661eb9b2392661c8ba\transformed\lifecycle-viewmodel-2.8.3\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\275239b0045036b4b150ac5c3c9a801a\transformed\jetified-lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\275239b0045036b4b150ac5c3c9a801a\transformed\jetified-lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\949eb9b02bceeb88f2b72ea812125427\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\949eb9b02bceeb88f2b72ea812125427\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\a5e36f50f18bcfd1267381d995533c5f\transformed\lifecycle-livedata-core-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\a5e36f50f18bcfd1267381d995533c5f\transformed\lifecycle-livedata-core-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\1bda5ff857d0ee3525bf1d2a6a9667e0\transformed\jetified-lifecycle-process-2.8.3\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\1bda5ff857d0ee3525bf1d2a6a9667e0\transformed\jetified-lifecycle-process-2.8.3\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\d0e945abf0177936357eb53dc8427d0d\transformed\jetified-lifecycle-livedata-core-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\d0e945abf0177936357eb53dc8427d0d\transformed\jetified-lifecycle-livedata-core-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\8f0cfa06bae72fdec422380dbb385ddc\transformed\lifecycle-livedata-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\8f0cfa06bae72fdec422380dbb385ddc\transformed\lifecycle-livedata-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\2156f907fa468fe288ce5bea7d7f7125\transformed\jetified-lifecycle-livedata-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\2156f907fa468fe288ce5bea7d7f7125\transformed\jetified-lifecycle-livedata-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\c922f00f3d774843f0562dbfd0ab3fb1\transformed\jetified-lifecycle-viewmodel-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\c922f00f3d774843f0562dbfd0ab3fb1\transformed\jetified-lifecycle-viewmodel-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\9a37f8eb372abf72d445525fc486e6ea\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\9a37f8eb372abf72d445525fc486e6ea\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\3954e5e98086d2fbd33f8c1f765f06c6\transformed\jetified-room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\3954e5e98086d2fbd33f8c1f765f06c6\transformed\jetified-room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\e61acd8c22df3bfbd45f2e4bfe76b0c4\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\e61acd8c22df3bfbd45f2e4bfe76b0c4\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b7bdad78661ed30a9c6a5e6c4c88924b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b7bdad78661ed30a9c6a5e6c4c88924b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\0bef36ca5c63b69f537ba6a490339cdf\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\0bef36ca5c63b69f537ba6a490339cdf\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\e8fca0093423cbd6b1f9b49534a2a2cf\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\e8fca0093423cbd6b1f9b49534a2a2cf\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\918ada7e61b16d3115ae8b597278f052\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\918ada7e61b16d3115ae8b597278f052\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\5a3f2d23e038b943554f71b1289f1bf5\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\5a3f2d23e038b943554f71b1289f1bf5\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\50f74abb3594eb315035c7732a2fa2eb\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\50f74abb3594eb315035c7732a2fa2eb\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\dc0f21531616e0033a68c5ebdd889127\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\dc0f21531616e0033a68c5ebdd889127\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\31cd04cf25c7807e7cbe73d5cec0f4ff\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\31cd04cf25c7807e7cbe73d5cec0f4ff\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\3353b37d8952c15feaaecb926ade2d72\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\3353b37d8952c15feaaecb926ade2d72\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\240463b05e261f4b8008224b07424f92\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\240463b05e261f4b8008224b07424f92\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\9555bd48c6740af10572e80c705705d4\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\9555bd48c6740af10572e80c705705d4\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\d401488e7771b62df410b733265e3937\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\d401488e7771b62df410b733265e3937\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\98e1437d12bdb6eeaeeb3507e9ffe1f7\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\98e1437d12bdb6eeaeeb3507e9ffe1f7\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:core-common:2.0.2] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\397beb8c7e89bf7fccc1c1adc05fa420\transformed\jetified-core-common-2.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:core-common:2.0.2] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\397beb8c7e89bf7fccc1c1adc05fa420\transformed\jetified-core-common-2.0.2\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		INJECTED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\xampp\htdocs\AppAndroid_creadas\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\180c09a414a11f7662a2a7ff0755ba0a\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\1bda5ff857d0ee3525bf1d2a6a9667e0\transformed\jetified-lifecycle-process-2.8.3\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\1bda5ff857d0ee3525bf1d2a6a9667e0\transformed\jetified-lifecycle-process-2.8.3\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b7bdad78661ed30a9c6a5e6c4c88924b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b7bdad78661ed30a9c6a5e6c4c88924b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\31cd04cf25c7807e7cbe73d5cec0f4ff\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\31cd04cf25c7807e7cbe73d5cec0f4ff\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\180c09a414a11f7662a2a7ff0755ba0a\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\180c09a414a11f7662a2a7ff0755ba0a\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\180c09a414a11f7662a2a7ff0755ba0a\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\180c09a414a11f7662a2a7ff0755ba0a\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\180c09a414a11f7662a2a7ff0755ba0a\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\180c09a414a11f7662a2a7ff0755ba0a\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\180c09a414a11f7662a2a7ff0755ba0a\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:30:17-75
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b566078bd6cd52a9b218b2b84432de72\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b566078bd6cd52a9b218b2b84432de72\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b566078bd6cd52a9b218b2b84432de72\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\e39d5b6cee495d20e020ab382164ec1e\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\e39d5b6cee495d20e020ab382164ec1e\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\e39d5b6cee495d20e020ab382164ec1e\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#net.sytes.planealo.deudaconsulta.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\e39d5b6cee495d20e020ab382164ec1e\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\e39d5b6cee495d20e020ab382164ec1e\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\e39d5b6cee495d20e020ab382164ec1e\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\e39d5b6cee495d20e020ab382164ec1e\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\e39d5b6cee495d20e020ab382164ec1e\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#net.sytes.planealo.deudaconsulta.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\e39d5b6cee495d20e020ab382164ec1e\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\e39d5b6cee495d20e020ab382164ec1e\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\1bda5ff857d0ee3525bf1d2a6a9667e0\transformed\jetified-lifecycle-process-2.8.3\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\1bda5ff857d0ee3525bf1d2a6a9667e0\transformed\jetified-lifecycle-process-2.8.3\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\1bda5ff857d0ee3525bf1d2a6a9667e0\transformed\jetified-lifecycle-process-2.8.3\AndroidManifest.xml:30:17-78
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\9a37f8eb372abf72d445525fc486e6ea\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\9a37f8eb372abf72d445525fc486e6ea\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\9a37f8eb372abf72d445525fc486e6ea\transformed\room-runtime-2.6.1\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\9a37f8eb372abf72d445525fc486e6ea\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\9a37f8eb372abf72d445525fc486e6ea\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b7bdad78661ed30a9c6a5e6c4c88924b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b7bdad78661ed30a9c6a5e6c4c88924b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b7bdad78661ed30a9c6a5e6c4c88924b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b7bdad78661ed30a9c6a5e6c4c88924b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b7bdad78661ed30a9c6a5e6c4c88924b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b7bdad78661ed30a9c6a5e6c4c88924b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b7bdad78661ed30a9c6a5e6c4c88924b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b7bdad78661ed30a9c6a5e6c4c88924b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b7bdad78661ed30a9c6a5e6c4c88924b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b7bdad78661ed30a9c6a5e6c4c88924b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b7bdad78661ed30a9c6a5e6c4c88924b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b7bdad78661ed30a9c6a5e6c4c88924b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b7bdad78661ed30a9c6a5e6c4c88924b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b7bdad78661ed30a9c6a5e6c4c88924b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b7bdad78661ed30a9c6a5e6c4c88924b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b7bdad78661ed30a9c6a5e6c4c88924b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b7bdad78661ed30a9c6a5e6c4c88924b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b7bdad78661ed30a9c6a5e6c4c88924b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b7bdad78661ed30a9c6a5e6c4c88924b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b7bdad78661ed30a9c6a5e6c4c88924b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\b7bdad78661ed30a9c6a5e6c4c88924b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core-common:2.0.2] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\397beb8c7e89bf7fccc1c1adc05fa420\transformed\jetified-core-common-2.0.2\AndroidManifest.xml:14:9-18:65
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core-common:2.0.2] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\397beb8c7e89bf7fccc1c1adc05fa420\transformed\jetified-core-common-2.0.2\AndroidManifest.xml:17:13-42
+	android:exported
+		ADDED from [com.google.android.play:core-common:2.0.2] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\397beb8c7e89bf7fccc1c1adc05fa420\transformed\jetified-core-common-2.0.2\AndroidManifest.xml:16:13-37
+	android:theme
+		ADDED from [com.google.android.play:core-common:2.0.2] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\397beb8c7e89bf7fccc1c1adc05fa420\transformed\jetified-core-common-2.0.2\AndroidManifest.xml:18:13-62
+	android:name
+		ADDED from [com.google.android.play:core-common:2.0.2] C:\Users\Otic-Sistemas\.gradle\caches\8.10.2\transforms\397beb8c7e89bf7fccc1c1adc05fa420\transformed\jetified-core-common-2.0.2\AndroidManifest.xml:15:13-93

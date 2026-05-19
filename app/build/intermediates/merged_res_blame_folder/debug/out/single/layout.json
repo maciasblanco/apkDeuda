@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Otic-Sistemas\\.gradle\\daemon\\8.10.2\\net.sytes.planealo.deudaconsulta.app-mergeDebugResources-39:\\layout\\dialog_comentario.xml",
+        "source": "C:\\Users\\Otic-Sistemas\\.gradle\\daemon\\8.10.2\\net.sytes.planealo.deudaconsulta.app-main-42:\\layout\\dialog_comentario.xml"
+    },
+    {
+        "merged": "C:\\Users\\Otic-Sistemas\\.gradle\\daemon\\8.10.2\\net.sytes.planealo.deudaconsulta.app-mergeDebugResources-39:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Otic-Sistemas\\.gradle\\daemon\\8.10.2\\net.sytes.planealo.deudaconsulta.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "net.sytes.planealo.deudaconsulta.app-mergeDebugResources-39:/layout/dialog_comentario.xml",
+        "source": "net.sytes.planealo.deudaconsulta.app-main-42:/layout/dialog_comentario.xml"
+    }
+]

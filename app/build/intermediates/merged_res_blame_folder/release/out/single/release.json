@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "net.sytes.planealo.deudaconsulta.app-merged_res-40:/drawable_ic_notification_custom.xml.flat",
+        "source": "net.sytes.planealo.deudaconsulta.app-main-41:/drawable/ic_notification_custom.xml"
+    },
+    {
+        "merged": "net.sytes.planealo.deudaconsulta.app-merged_res-40:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "net.sytes.planealo.deudaconsulta.app-main-41:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "net.sytes.planealo.deudaconsulta.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "net.sytes.planealo.deudaconsulta.app-main-41:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "net.sytes.planealo.deudaconsulta.app-merged_res-40:/layout_activity_main.xml.flat",
+        "source": "net.sytes.planealo.deudaconsulta.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "net.sytes.planealo.deudaconsulta.app-merged_res-40:/drawable_ic_launcher_monochrome.xml.flat",
+        "source": "net.sytes.planealo.deudaconsulta.app-main-41:/drawable/ic_launcher_monochrome.xml"
+    },
+    {
+        "merged": "net.sytes.planealo.deudaconsulta.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "net.sytes.planealo.deudaconsulta.app-main-41:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "net.sytes.planealo.deudaconsulta.app-merged_res-40:/drawable_ic_action_search.xml.flat",
+        "source": "net.sytes.planealo.deudaconsulta.app-main-41:/drawable/ic_action_search.xml"
+    },
+    {
+        "merged": "net.sytes.planealo.deudaconsulta.app-merged_res-40:/drawable_ic_launcher_background.xml.flat",
+        "source": "net.sytes.planealo.deudaconsulta.app-main-41:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "net.sytes.planealo.deudaconsulta.app-merged_res-40:/layout_dialog_comentario.xml.flat",
+        "source": "net.sytes.planealo.deudaconsulta.app-main-41:/layout/dialog_comentario.xml"
+    }
+]

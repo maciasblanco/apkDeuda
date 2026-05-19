@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "net.sytes.planealo.deudaconsulta.app-mergeReleaseResources-39:/layout/dialog_comentario.xml",
+        "source": "net.sytes.planealo.deudaconsulta.app-main-41:/layout/dialog_comentario.xml"
+    },
+    {
+        "merged": "net.sytes.planealo.deudaconsulta.app-mergeReleaseResources-39:/layout/activity_main.xml",
+        "source": "net.sytes.planealo.deudaconsulta.app-main-41:/layout/activity_main.xml"
+    }
+]

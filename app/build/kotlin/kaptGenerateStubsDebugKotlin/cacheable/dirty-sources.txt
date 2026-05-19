@@ -1,0 +1,11 @@
+C:\xampp\htdocs\AppAndroid_creadas\app\src\main\java\net\sytes\planealo\deudaconsulta\data\remote\ApiService.kt
+C:\xampp\htdocs\AppAndroid_creadas\app\src\main\java\net\sytes\planealo\deudaconsulta\ui\MainActivity.kt
+C:\xampp\htdocs\AppAndroid_creadas\app\src\main\java\net\sytes\planealo\deudaconsulta\utils\NetworkUtils.kt
+C:\xampp\htdocs\AppAndroid_creadas\app\src\main\java\net\sytes\planealo\deudaconsulta\data\remote\DeudaResponse.kt
+C:\xampp\htdocs\AppAndroid_creadas\app\src\main\java\net\sytes\planealo\deudaconsulta\data\repository\DeudaRepository.kt
+C:\xampp\htdocs\AppAndroid_creadas\app\src\main\java\net\sytes\planealo\deudaconsulta\viewmodel\DeudaViewModel.kt
+C:\xampp\htdocs\AppAndroid_creadas\app\src\main\java\net\sytes\planealo\deudaconsulta\data\local\DeudaEntity.kt
+C:\xampp\htdocs\AppAndroid_creadas\app\src\main\java\net\sytes\planealo\deudaconsulta\data\remote\ComentarioResponse.kt
+C:\xampp\htdocs\AppAndroid_creadas\app\src\main\java\net\sytes\planealo\deudaconsulta\data\local\DeudaDao.kt
+C:\xampp\htdocs\AppAndroid_creadas\app\src\main\java\net\sytes\planealo\deudaconsulta\data\local\AppDatabase.kt
+C:\xampp\htdocs\AppAndroid_creadas\app\src\main\java\net\sytes\planealo\deudaconsulta\data\remote\RetrofitClient.kt
